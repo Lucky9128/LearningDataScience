@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588301748613.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C30AAA9E",
+    "lastKnownWriteTime" : 1588302531,
+    "last_content_update" : 1588302531,
+    "path" : "~/LearningR/Data.csv",
+    "project_path" : "Data.csv",
+    "properties" : {
+        "cursorPosition" : "0,6",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

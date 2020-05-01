@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588300167303.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6DE0760D",
+    "lastKnownWriteTime" : 1588344063,
+    "last_content_update" : 1588344063016,
+    "path" : "~/LearningR/Trial.R",
+    "project_path" : "Trial.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "9",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
