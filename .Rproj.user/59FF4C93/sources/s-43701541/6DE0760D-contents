@@ -20,7 +20,7 @@ dataset$Purchased = factor(dataset$Purchased,
 library(caTools)
 set.seed(1234)
 split = sample.split(dataset$Purchased,SplitRatio=0.8)
-training_set = subset(dataset,split=TRUE)
-test_set = subset(dataset,split=FALSE)
+training_set = subset(dataset,split==TRUE)
+test_set = subset(dataset,split==FALSE)
 
 
