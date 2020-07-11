@@ -1,5 +1,5 @@
 #Data Preprocessing
-dataset = read.csv('Data.csv')
+dataset = read.csv('Preprocessing/Data.csv')
 dataset = dataset[,2:3]
 #spliting data into training and test set
 #install.packages('caTools')

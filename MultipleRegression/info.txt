@@ -1,0 +1,8 @@
+Multiple Regression:
+
+i) Never include both dummy variable as we are just duplicating the varibale, if there is column
+like state which have categorical value (ABD, BCD) thn we make two dummy variable A1 and A2
+now ultimately A1 = 1-A2, if a variable can be derived from another variable then it is called as linearity, as a result
+the model won't be able to distinguish between the effect from A1 and A2.
+
+ii) Rules to follow whenever we make a model always left one dummy varibale if there are 100 dummy variables use only 99
